@@ -1,0 +1,234 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nadun Malwenna",
+    "label": "Mobile Application Engineer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-a05e4.appspot.com/o/IMG-20220628-WA0011.jpg?alt=media&token=a047704c-74a6-46e7-b026-ed579d602306",
+    "email": "hnkmawalwenna@mail.com",
+    "phone": "+(94) 72 624 9999",
+    "url": "https://nadunkawishika.me",
+    "summary": "I am a motivated and highly specialized Computer Science undergraduate with a strong focus on mobile application development. Proficient in designing, developing, and deploying user-centric mobile applications across various platforms.",
+    "location": {
+      "address": "73, Wanaluwawa",
+      "postalCode": "11068",
+      "city": "Dompe",
+      "countryCode": "LK",
+      "region": "Gampaha"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "HewageNKM",
+        "url": "https://x.com/HewageNKM"
+      },
+      {
+        "network": "Github",
+        "username": "HewageNKM",
+        "url": "https://github.com/HewageNKM"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nadun-malwenna",
+        "url": "https://www.linkedin.com/in/nadun-malwenna/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Kingston University",
+      "url": "https://www.kingstonisc.com/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2025",
+      "endDate": "2026",
+      "score": "Pending",
+      "courses": [
+        "BSc - Computer Science"
+      ]
+    },
+    {
+      "institution": "Institute of Software Engineering",
+      "url": "https://www.ijse.lk/",
+      "area": "Software Engineering",
+      "studyType": "Diploma Level",
+      "startDate": "2025-08",
+      "score": "Pending",
+      "courses": [
+        "GDSE - Graduate Diploma in Software Engineering"
+      ]
+    },
+    {
+      "institution": "Padmawathi Natinal School",
+      "url": "https://padmawathiemmv.blogspot.com/",
+      "area": "Higher Education",
+      "studyType": "Advanced Level",
+      "startDate": "2011-02-10",
+      "endDate": "2022-02-20",
+      "score": "Complete",
+      "courses": [
+        "Mathematics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "NextJS",
+        "Tailwind",
+        "React",
+        "Express",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "keywords": [
+        "React Native",
+        "Flutter",
+        "Jetpack Compose"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Teamwork",
+        "Adaptability",
+        "Problem solving"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Campfires",
+        "Hiking"
+      ]
+    },
+    {
+      "name": "Movies",
+      "keywords": [
+        "Horror",
+        "Comedies",
+        "Marvel",
+        "Disney",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "COD",
+        "Far Cry",
+        "GTA"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mr.Yashendra Darshana",
+      "reference": "Chief of academic of Institute of Software Engineering(IJSE)."
+    },
+    {
+      "name": "Mr.Prasad Waduge",
+      "reference": "CEO of Institute of Software Engineering(IJSE)."
+    }
+  ],
+  "projects": [
+    {
+      "name": "NEVERBE",
+      "highlights": [
+        "NextJS / Tailwind",
+        "Framer Motion / Firebase",
+        "Full-stack"
+      ],
+      "description": "NEVERBE is full-stack ecommerce application build for selling shoes and accessories. Build by NextJS, Tailwind, Framer Motion and Firebase.",
+      "startDate": "2024-07-17",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Web app"
+    },
+    {
+      "name": "VAIVE",
+      "description": "VAIVE is a powerful AI content sharing app, build by using Expo, Appwrite and Nativewind. You can share AI contents.",
+      "highlights": [
+        "Expo / Nativewind",
+        "Appwrite / AI"
+      ],
+      "startDate": "2024-07-01",
+      "endDate": "2024-07-07",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Mobile app"
+    },
+    {
+      "name": "TaskDo",
+      "highlights": [
+        "Expo / Nativewind",
+        "App Notifications/ Alerts",
+        "SQLite"
+      ],
+      "description": "TaskDo is powerful daily task managing app build using power of Expo and Nativewind. Mange your task stay alerted with build in notification function.",
+      "startDate": "2024-09-07",
+      "endDate": "2024-09-24",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Mobile app"
+    },
+    {
+      "name": "NativeNotes",
+      "description": "TaskDo is powerful daily task managing app build using power of Expo and Nativewind. Mange your task stay alerted with build in notification function.",
+      "startDate": "2024-08-08",
+      "highlights": [
+        "Android / Jetpack Compose",
+        "Room / LiveData / ViewModel",
+        "MVM / Material Design"
+      ],
+      "endDate": "2024-08-14",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Mobile app"
+    },
+    {
+      "name": "Hello Shoes",
+      "description": "Hello Shoes is a full-stack ecommerce application build for selling shoes. Build by Vanilla CSS, HTML, JS and Spring Boot.",
+      "startDate": "2024-05-27",
+      "highlights": [
+        "Vanilla CSS, HTML, JS",
+        "Spring Boot / MySQL / AWT",
+        "REST API / Ajax"
+      ],
+      "endDate": "2024-06-09",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Web app"
+    },
+    {
+      "name": "Nike Landing Page",
+      "highlights": [
+        "React / Tailwind",
+        "Responsive Design",
+        "SEO"
+      ],
+      "description": "Nike Landing Page is a landing page build for Nike. Build by using React and Tailwind.",
+      "startDate": "2023-10-30",
+      "endDate": "2024-11-01",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Web app"
+    },
+    {
+      "name": "HWayTicket",
+      "highlights": [
+        "Spring Boot / Microservices",
+        "MySQ / REST API"
+      ],
+      "description": "HwayTicket is a powerful distributed ticket booking system build by Spring Boot.",
+      "startDate": "2023-10-30",
+      "endDate": "2024-11-01",
+      "url": "https://nadunkawishika.me/projects",
+      "type": "Web app"
+    }
+  ],
+  "meta": {
+    "theme": "macchiato",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
