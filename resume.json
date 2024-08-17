@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Nadun Malwenna",
-    "label": "Mobile Application Engineer",
+    "label": "Software Engineer",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-a05e4.appspot.com/o/IMG-20220628-WA0011.jpg?alt=media&token=a047704c-74a6-46e7-b026-ed579d602306",
     "email": "hnkmawalwenna@mail.com",
     "phone": "+(94) 72 624 9999",
@@ -90,6 +90,12 @@
       ]
     },
     {
+      "name": "DevOps",
+      "keywords": [
+        "AWS"
+      ]
+    },
+    {
       "name": "Soft Skills",
       "keywords": [
         "Teamwork",
@@ -110,10 +116,8 @@
       "name": "Movies",
       "keywords": [
         "Horror",
-        "Comedies",
-        "Marvel",
-        "Disney",
-        "Fantasy"
+        "Fantasy",
+        "Sci-Fi"
       ]
     },
     {
@@ -216,7 +220,8 @@
       "name": "HWayTicket",
       "highlights": [
         "Spring Boot / Microservices",
-        "MySQ / REST API"
+        "MySQL / REST API",
+        "Eureka / Gateway"
       ],
       "description": "HwayTicket is a powerful distributed ticket booking system build by Spring Boot.",
       "startDate": "2023-10-30",
